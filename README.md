@@ -1,6 +1,6 @@
-# **mock-db-server**
+# **mock-json-db-server**
 
-**mock-db-server** is a simple and lightweight tool to emulate a JSON database. It provides a quick and efficient way to mock API endpoints during development and testing, without setting up a full database backend.
+**mock-json-db-server** is a simple and lightweight tool to emulate a JSON database. It provides a quick and efficient way to mock API endpoints during development and testing, without setting up a full database backend.
 
 ---
 
@@ -16,9 +16,9 @@
 
 ## **Installation**
 
-To install the package globally:
+To install the package:
 ```bash
-npm install -g mock-db-server
+npm install mock-json-db-server
 ```
 
 ---
@@ -176,7 +176,7 @@ If you want to develop or contribute to the package:
 
 4. Test the package:
    ```bash
-   mock-db-server --file ./example.json --port 3000
+   mock-json-db-server --file ./example.json --port 3000
    ```
 
 ---
