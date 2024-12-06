@@ -1,6 +1,6 @@
 {
   "name": "mock-db-server",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A lightweight local JSON database emulator for mocking RESTful APIs.",
   "main": "index.js",
   "scripts": {
