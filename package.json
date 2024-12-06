@@ -1,7 +1,7 @@
 {
   "name": "mock-db-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A lightweight local JSON database emulator for mocking RESTful APIs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
