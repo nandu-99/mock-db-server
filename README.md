@@ -160,7 +160,7 @@ If you want to develop or contribute to the package:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/mock-db-server.git
+   git clone https://github.com/nandu-99/mock-db-server.git
    cd mock-db-server
    ```
 
