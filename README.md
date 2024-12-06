@@ -16,9 +16,9 @@
 
 ## **Installation**
 
-To install the package:
+To install the package globally:
 ```bash
-npm install mock-json-db-server
+npm install -g mock-json-db-server
 ```
 
 ---
@@ -176,7 +176,7 @@ If you want to develop or contribute to the package:
 
 4. Test the package:
    ```bash
-   mock-json-db-server --file ./example.json --port 3000
+   mock-db-server --file ./example.json --port 3000
    ```
 
 ---
